@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 3C GIS Day(s) 2021 Website
 
 You can use the [editor on GitHub](https://github.com/3cgisday/3cgisday.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
