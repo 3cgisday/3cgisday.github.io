@@ -29,3 +29,10 @@ a:active {
     color: hotpink;
 }
 
+/* map gallery banner */
+.banner {
+    background: #977000;
+    background: -webkit-linear-gradient(to right, #977000, #9f8b00, #bdb99b);
+    background: linear-gradient(to right, #977000, #9f8b00, #bdb99b);
+}
+
