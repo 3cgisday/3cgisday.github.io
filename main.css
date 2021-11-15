@@ -32,7 +32,7 @@ a:active {
 /* map gallery banner */
 .banner {
     background: #977000;
-    background: -webkit-linear-gradient(to right, #977000, #9f8b00, #ada95b);
-    background: linear-gradient(to right, #977000, #9f8b00, #ada95b);
+    background: -webkit-linear-gradient(to right, #977000, #9f8b00, #9d765b);
+    background: linear-gradient(to right, #977000, #9f8b00, #9d765b);
 }
 
